@@ -1,0 +1,5 @@
+{
+    success: true,
+    data:{id:4,name: 'liudehua', age: 30,sex:'男',birth:'2000-01-01'},
+    msg:'获取成功'
+}
